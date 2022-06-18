@@ -6,7 +6,7 @@
 
     <groupId>io.github.c2hy</groupId>
     <artifactId>excs</artifactId>
-    <version>1.0.0-SNAPSHOTS</version>
+    <version>1.0.0</version>
     <url>https://github.com/c2hy/excs</url>
 
     <properties>
